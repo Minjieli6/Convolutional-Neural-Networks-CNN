@@ -1,0 +1,1 @@
+# Supervised-Learning-Of-Filters-Channels-Padding-and-Strides.-Convolutional-Neural-Networks-CNN-
